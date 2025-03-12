@@ -1,0 +1,36 @@
+Pandas is built on top of numpy
+The data it handles counld be comma separated, excel, sql functiions, 
+
+Advantage of pandas
+Has efficient data structures - series and data frame
+series is column with a data
+data frame is like a table
+
+It is easily integratable with scientific libraries
+Integratable with matplotlib - communicate the results
+
+Examples of use
+1. Climate data analysis
+2. Processing medical datasets
+3. Financial modeling
+
+Examples of datasets: data.gov, UNdata
+
+Put the pdf and url
+Print the jupyter document as pdf
+
+Assignment
+Get data, load it and inspect it
+Write there what you're doing
+Handle missing values and outliers - the data you download has some missing values eg using mean to fill empty data values
+Compute key statistics about the data
+Generate visualization - histogram, scatter plot, correlation heatmap
+
+cargo - metadata
+https://data.un.org/
+data.gov
+
+Research: agent based modelling
+
+Create a website that can be hosted, disease models through gaming, come up with the sections of the project adn come with it for hosting
+Game - help users learn about diseases in python or Agent based modelling for disease modelling
